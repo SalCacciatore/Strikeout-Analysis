@@ -1,6 +1,6 @@
 # Strikeout-Analysis 
 
-This project will analyze the importance of strikeouts in Major League Baseball. Strikeouts have reached historic levels in recent years the project will consider the impact of this and examine why scoring has not declined in tandem with this increase.
+This project will analyze the importance of strikeouts in Major League Baseball. Strikeouts have reached historic levels in recent years and the project will consider the impact of this and examine why scoring has not declined in tandem with this increase.
 
 One of the key takeaways here is that strikeouts are crucial for pitching success but not necessarily a detriment to offensive success on their own.
 
