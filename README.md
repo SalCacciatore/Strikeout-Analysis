@@ -12,3 +12,9 @@ It has three main components:
   <li>How this rise has effected scoring</li>
   <li>Why these effects are different for run scoring and run prevention</li>
 </ul>
+
+The project uses the 'Strikeout_analysis.ipynb' Jupyter Notebook and the following datasets:
+<ul>
+  <li>pitchers_16_21.csv -- this is a csv file with Baseball Reference data for individual pitchers from 2016 to 2021</li>
+  <li>Game logs from Retrosheet, which can be downloaded here: https://www.retrosheet.org/gamelogs/index.html</li>
+</ul>
